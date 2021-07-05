@@ -1,1 +1,1 @@
-# CSE-Projects
+# CSE-Java Projects
